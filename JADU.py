@@ -1,1 +1,1 @@
-import JADU
+from JADU import menu
